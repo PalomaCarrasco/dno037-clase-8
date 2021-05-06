@@ -1,8 +1,8 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Varela+Round&display=swap');
 :root{
     --fondo: #000;
-    --figura: #ddd;
+    --figura: #696969;
 }
 
 * {
@@ -11,7 +11,7 @@
 }
 
 body {
-    font-family: 'Dela Gothic One', cursive;
+    font-family: 'Varela Round', sans-serif;
     background: var(--fondo);
     color: var(--figura);
 }
